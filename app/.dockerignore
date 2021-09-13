@@ -1,4 +1,4 @@
 env
 .dockerignore
-Dockerfile
+Dockerfile.with_sqlite
 Dockerfile.prod

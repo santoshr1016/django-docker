@@ -1,0 +1,68 @@
+[
+  {
+    "model": "movies.movie",
+    "pk": 1,
+    "fields": {
+      "title": "Fargo",
+      "genre": "comedy",
+      "year": "1996",
+      "created_date": "2021-01-07T14:07:13.540Z",
+      "updated_date": "2021-01-07T14:07:13.540Z"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 2,
+    "fields": {
+      "title": "No Country for Old Men",
+      "genre": "thriller",
+      "year": "2007",
+      "created_date": "2021-01-07T14:06:59.408Z",
+      "updated_date": "2021-01-07T14:06:59.408Z"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 3,
+    "fields": {
+      "title": "Titanic",
+      "genre": "Romance",
+      "year": "1999",
+      "created_date": "2021-01-07T14:06:59.408Z",
+      "updated_date": "2021-01-07T14:06:59.408Z"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 4,
+    "fields": {
+      "title": "Gone Girl",
+      "genre": "Crime",
+      "year": "2018",
+      "created_date": "2021-01-07T14:06:59.408Z",
+      "updated_date": "2021-01-07T14:06:59.408Z"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 5,
+    "fields": {
+      "title": "Avataar",
+      "genre": "SciFi",
+      "year": "2012",
+      "created_date": "2021-01-07T14:06:59.408Z",
+      "updated_date": "2021-01-07T14:06:59.408Z"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 6,
+    "fields": {
+      "title": "A Serious Man",
+      "genre": "comedy",
+      "year": "2009",
+      "created_date": "2021-01-07T14:06:51.542Z",
+      "updated_date": "2021-01-07T14:06:51.542Z"
+    }
+  }
+]
